@@ -11,6 +11,7 @@ A _React Introduction_ assignment for **WDD 430** course at **BYU-I**.
 - [ ] Create an app state to store typed tasks
 - [ ] Display tasks
 - [ ] Create a Task component (it must handle task lifecycle (pending, done, deleted))
+- [ ] Deploy to GitHub, Vercel, or Netlify
 
 **Additionally ...**
 
