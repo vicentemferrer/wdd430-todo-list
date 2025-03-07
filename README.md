@@ -2,7 +2,7 @@
 
 A _React Introduction_ assignment for **WDD 430** course at **BYU-I**.
 
-[_**See the app running**_](https://github.com/vicentemferrer/wdd430-todo-list/)
+[_**See the app running**_](https://wdd430-todo-list.netlify.app/)
 
 ### Steps:
 
