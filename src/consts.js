@@ -1,4 +1,4 @@
 export const TASK_STATUS = {
-	PENDING: 'PENDING',
-	DONE: 'DONE'
+	PENDING: false,
+	DONE: true
 };
