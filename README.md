@@ -12,7 +12,7 @@ A _React Introduction_ assignment for **WDD 430** course at **BYU-I**.
 - [x] Display tasks
 - [x] Create a Task component (it must handle task lifecycle (pending, done, deleted))
 - [x] State persistence
-- [ ] Deploy to GitHub, Vercel, or Netlify
+- [x] Deploy to GitHub, Vercel, or Netlify
 
 **Additionally ...**
 
